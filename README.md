@@ -1,18 +1,24 @@
-# Project Title
+# Gotcha Dataset 
 
-One Paragraph of project description goes here
+This dataset is a collection of video of 62 subject in different mode and illumination. 
 
-## Getting Started
+
+## About the videos
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Illuminations
 
-What things you need to install the software and how to install them
+These videos have been acquired with three different illuminations: indoor with the artificial lights on, indoor with the lights off and with the camera flash, and outdoor.
 
-```
-Give examples
-```
+
+### Cooperative/NON-Cooperative
+
+They were also acquired in two different ways: cooperatives and non-cooperatives.
+
+By "cooperatives" we mean "non-adversarial behavior": that is, when the subject is taken up by the camera, he does not oppose any resistance, he does not hide his face and does not try to look away from the lens. In cooperative mode the subject collaborates in video acquisition.
+
+By "non-cooperatives" we mean "adversarial behavior": that is a hostile behavior on the part of the subject that more or less accentuated tries to oppose the video acquisition by trying to hide the face or trying to look away from the camera lens . In the non-cooperative mode the subject does not cooperate in video acquisition.
 
 ### Installing
 
